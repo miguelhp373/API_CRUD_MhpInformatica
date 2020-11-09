@@ -8,7 +8,7 @@
 - [x] Design Responsivo.
 ***
 ## BackEnd
-- [x] Backend Feita em Php.
+- [x] Backend Feito em Php.
 ***
 - [x] Banco de Dados Com MySql.
 ***
